@@ -1,4 +1,4 @@
-# Course materials for ECON323 Fall 2022
+# Course materials for ECON323 Summer 2023
 
 Previous **programming experience** and classwork is useful, but **not required**.  We will also talk about the applications of the econometric and statistical learning methods.
 

@@ -12,13 +12,14 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyze these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-The classes will be held at **LASR 104** on Tuesday and Thursday, 12:30-1:50pm. These schedules will be subject to changes in related UBC policies.
+The classes will be held at **LASR 104** on Tuesday and Thursday, 12:00-pm. These schedules will be subject to changes in related UBC policies.
 
 ## Course Materials and Communications
 
 All materials will be provided online:
-- Class Materials: https://github.com/doctor-phil/ECON323_2022_Fall
-- Communications, Announcements, Grades, Piazza: http://canvas.ubc.ca
+- Class Materials: https://github.com/doctor-phil/ECON323_2023_Summer
+- Submissions, Grades: http://canvas.ubc.ca
+- Communications, Announcements, Q&A: https://piazza.com/ubc.ca/summer2023/econ3232023s1
 
 ## Grading
 
@@ -85,6 +86,8 @@ Some examples of behavior that constitute academic misconduct include but **are 
 - Accessing any resources during an exam that have not been explicitly allowed by the instructor
 - Having your friend sign you in for attendance (or vice versa, signing in your friend who is absent)
 - Copying code directly from anyone who is not part of your homework or project group
+
+
 
 ## VSE Policy Prohibiting the Hiring of Tutors:
 

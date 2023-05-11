@@ -21,7 +21,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 17. PS5 review, Overview of the rest of the lectures; [Regression](https://datascience.quantecon.org/applications/regression.html)
 18. [Regression](https://datascience.quantecon.org/applications/regression.html): LASSO, Ridge, Cross-validation
 19. [Classification](https://datascience.quantecon.org/applications/regression.html)
-20. ~~[Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)~~ Easter Monday
+20. [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html) Easter Monday
 21. [Application: Social and economic networks](https://github.com/doctor-phil/analyzing-economic-networks/blob/main/Analyzing_economic_networks.ipynb)
 22. Exam, Final project due
 

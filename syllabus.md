@@ -1,8 +1,10 @@
 
 ## Quantitative Economic Modeling with Data Science Applications
 
-- **Instructor:** Philip Solimine, philip.solimine@ubc.ca
-- **TA:** Daniel Jaramillo, jaramillocalderondc@gmail.com
+- **Instructor** Philip Solimine [philip.solimine@ubc.ca](mailto:philip.solimine@ubc.ca)
+ - Office Hours: Tuesdays 10:00am - 11:00am or by appointment, Iona #106
+- **TA**: Daniel Jaramillo [jaramillocalderondc@gmail.com](mailto:jaramillocalderondc@gmail.com)
+ - Office Hours Fridays 11:00am - 12:00pm or by appointment, IONA #434
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
 

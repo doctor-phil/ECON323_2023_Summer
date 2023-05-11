@@ -80,7 +80,7 @@ All materials will be provided online:
 
 [Tentative schedule](schedule.md)
 
-## Statement on Academic Honesty:
+## Statement on Academic Honesty
 
 It is the policy of the VSE to report all violations of UBC’s standards for academic integrity to the office of the Dean of Arts. You are personally responsible for knowing the behaviours that are considered a violation of UBC’s policies for academic honesty found here: https://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0. Any student who violates the rules for academic conduct on submitted work will be given an automatic grade of zero on that component of the course and will be reported to the VSE Academic Integrity Officer. Further penalties may be levied by the President's Advisory Committee on Student Discipline. Those penalties might include a notation on your transcript indicating that you have committed an academic offence, failure of the course, and/or suspension from the university. You can see more on this process, including a complete list of annual academic discipline cases, here: https://universitycounsel.ubc.ca/homepage/guides-and-resources/discipline/. Speak to your instructor if you have any questions regarding the standard for academic integrity at UBC.
 
@@ -89,13 +89,15 @@ Some examples of behavior that constitute academic misconduct include but **are 
 - Having your friend sign you in for attendance (or vice versa, signing in your friend who is absent)
 - Copying code directly from anyone who is not part of your homework or project group
 
-
-
-## VSE Policy Prohibiting the Hiring of Tutors:
+## VSE Policy Prohibiting the Hiring of Tutors
 
 The Vancouver School of Economics expressly prohibits any student from hiring a tutor/editor to assist with any portion of written work or academic research. Violation of this rule will be treated as academic misconduct, and the student will face the same penalties as described above. If at any point you feel in need of additional writing support, please speak with your instructor and/or arrange for a writing consultation with UBC’s Centre for Writing and Scholarly Communication (https://writing.library.ubc.ca/).
 
-## Academic Concessions:
+## Statement on Grading Policy
+
+Grading in this class will conform to VSE guidelines, which suggest a range of 72-78 average for 300-level courses.
+
+## Academic Concessions
 
 Students at UBC are granted academic concessions for graded work and exams that are missed due to unexpected circumstances. There are only three grounds for academic concessions: unexpected changes in personal responsibilities; medical circumstances; and compassionate grounds. A detailed description of each can be found here: https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions. Situations that are expected (such as time constraints due to workload in other courses) or are predictable (such as being scheduled for paid work) are not grounds for academic concession. It is expected that requests for academic concession will be made before the due date for that graded work and/or the writing of the exam. Note that UBC policy does not allow for concessions to students who have missed work because they have registered for a course after the due date for that work. Students in the Faculty of Arts who require a concession should apply for a concession using this form: https://students.air.arts.ubc.ca/academic-concession-form/. Students in other Faculties should consult their Faculty website on academic concessions and consult with their instructor.
 

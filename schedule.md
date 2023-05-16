@@ -27,3 +27,5 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 
 ## Problem sets and deadlines
 **Important:** work on the problem sets in the [course git repository](https://github.com/doctor-phil/ECON323_2023_Summer/tree/master/problem_sets), not the ones from `quantecon.org`. The problem sets that appear in `lecture-datascience.notebooks/problem_sets` are not required for the course.
+
+- [Problem set 1](./problem_sets/problem_set_1) - **DUE Thursday May 25 at 11:59pm**

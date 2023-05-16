@@ -14,7 +14,7 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyze these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-The classes will be held at **LASR 104** on Tuesday and Thursday, 12:00-pm. These schedules will be subject to changes in related UBC policies.
+The classes will be held at **IONA 301** on Tuesday and Thursday, 12:00-3:00pm. These schedules will be subject to changes in related UBC policies.
 
 ## Course Materials and Communications
 

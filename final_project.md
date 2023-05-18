@@ -1,6 +1,6 @@
 # Final Project
 ## Dates
-* Final project **proposal** is **due** on **November 29th**
+* Final project **proposal** is **due** on **June 1st**
   * The writeup for this **proposal** can be very short (e.g. 1/2 page), just so we can all agree on whether it is acceptable.  **It will not be graded.**  If we think that the proposal is inappropriate, or want some clarifications, we will tell you that week.
   * Since the proposal is not graded, you can turn it in early if you want to get a head start on the project.
   * If you decide to work in pairs, then you should say something about how work will be divided and coordinated in the project proposal.

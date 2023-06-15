@@ -16,7 +16,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 12. PS3 Review, [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 13. [Reshape](https://datascience.quantecon.org/pandas/reshape.html), [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
 14. More examples of [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html), [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-15. PS4 review, [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html) continued, [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+15. PS4 review, [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html) continued, [Visualization](https://datascience.quantecon.org/pandas/matplotlib.html)
 16. [Visualization](https://datascience.quantecon.org/pandas/matplotlib.html) continued, [Mapping](https://datascience.quantecon.org/applications/maps.html)
 17. PS5 review, Overview of the rest of the lectures; [Regression](https://datascience.quantecon.org/applications/regression.html)
 18. [Regression](https://datascience.quantecon.org/applications/regression.html): LASSO, Ridge, Cross-validation

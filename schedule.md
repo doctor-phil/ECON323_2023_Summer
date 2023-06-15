@@ -29,7 +29,10 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 **Important:** work on the problem sets in the [course git repository](https://github.com/doctor-phil/ECON323_2023_Summer/tree/master/problem_sets), not the ones from `quantecon.org`. The problem sets that appear in `lecture-datascience.notebooks/problem_sets` are not required for the course.
 
 - ~[Problem set 1](./problem_sets/problem_set_1.ipynb) - **DUE Thursday May 25 at 11:59pm**~
-- [Problem set 2](./problem_sets/problem_set_2.ipynb) - **DUE Thursday June 1 at 11:59pm**
-- Final project proposal - **DUE Thursday June 1 at 11:59pm**
-- Midterm exam - **Thursday June 1 in BUCH B126**
-- [Problem set 3](./problem_sets/problem_set_3.ipynb) - **DUE Thursday June 8 at 11:59pm**
+- ~[Problem set 2](./problem_sets/problem_set_2.ipynb) - **DUE Thursday June 1 at 11:59pm**~
+- ~Final project proposal - **DUE Thursday June 1 at 11:59pm**~
+- ~Midterm exam - **Thursday June 1 in BUCH B126**~
+- ~[Problem set 3](./problem_sets/problem_set_3.ipynb) - **DUE Thursday June 8 at 11:59pm**~
+- [Problem set 4](./problem_sets/problem_set_4.ipynb) - **DUE Thursday June 15 at 11:59pm**
+- Problem set 5 - **DUE Thursday June 22 at 11:59pm**
+- Final Exam

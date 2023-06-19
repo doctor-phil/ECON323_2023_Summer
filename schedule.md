@@ -33,7 +33,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 - ~Final project proposal - **DUE Thursday June 1 at 11:59pm**~
 - ~Midterm exam - **Thursday June 1 in BUCH B126**~
 - ~[Problem set 3](./problem_sets/problem_set_3.ipynb) - **DUE Thursday June 8 at 11:59pm**~
-- [Problem set 4](./problem_sets/problem_set_4.ipynb) - **DUE Thursday June 15 at 11:59pm**
+- ~[Problem set 4](./problem_sets/problem_set_4.ipynb) - **DUE Thursday June 15 at 11:59pm**~
 - Problem set 5 - ~**DUE Thursday June 22 at 11:59pm**~ **DUE Tuesday June 27 at 11:59pm**
 - Final Exam - **DUE Friday Jun 30 2023 at 08:30am in room BUCH B126**
 - Final Project - **DUE Friday June 30 at 11:59pm**
